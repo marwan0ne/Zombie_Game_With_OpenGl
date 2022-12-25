@@ -18,6 +18,6 @@ The score:
  The score increases when the player collects the Power-ups.
 
 The Protection from gunshots:
-The second and third characters will defend themselves from gunshots, either by using a protective shield or by moving left and right or a wall that appears and disappears
+The second and third characters will defend themselves from gunshots, either by using a protective shield or by moving left and right or a wall that appears and disappears\n
 Co-authored: Tasnim Ayman
 
