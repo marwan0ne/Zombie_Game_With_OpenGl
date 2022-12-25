@@ -21,5 +21,5 @@ The Protection from gunshots:
 The second and third characters will defend themselves from gunshots, either by using a protective shield or by moving left and right or a wall that appears and disappears
 
 
-**Co-authored: @tasnim520**
+**Co-authored: @tasniim178**
 
